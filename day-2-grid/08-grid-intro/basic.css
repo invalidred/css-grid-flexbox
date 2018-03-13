@@ -16,8 +16,8 @@ body {
 }
 header,
 footer,
-aside, 
-section, 
+aside,
+section,
 article {
 	padding: 1em;
 	border-radius: 1rem;
@@ -29,7 +29,7 @@ header,
 footer {
 	background-color: #5BA9D9;
 }
-aside, 
+aside,
 section {
 	background-color: #3B82BF;
 }
@@ -66,7 +66,7 @@ section aside a {
 }
 section aside a:hover {
 	color: #333;
-	background-color: #F5D166; 
+	background-color: #F5D166;
 }
 aside ul {
 	list-style-type: none;
